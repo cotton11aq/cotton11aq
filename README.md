@@ -5,7 +5,7 @@
 
 ### 実績
 
-四国ツーリング  
+<strong>四国ツーリング</strong>  
 <https://github.com/cotton11aq/shikoku-touring>
 
 はまっぷグルメ  
