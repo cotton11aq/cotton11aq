@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+私が社会人として大切にすることは、変化を楽しみ、常に挑戦し続けることです。
+
+目まぐるしく変化する社会で、時代の流れに沿った暮らしや考え方とともに自分も常にアップデートする必要があります。
+
+積極的に新たなことに挑戦し、学んだことをアウトプットし、世の中に貢献することが、私が果たすべき仕事だと考えています。
+
+
 <!--
 **cotton11aq/cotton11aq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
