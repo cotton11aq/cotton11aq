@@ -51,7 +51,7 @@
 
 <strong>はまっぷグルメ</strong>  
 <img src="https://user-images.githubusercontent.com/70832534/102936469-930c6b00-44eb-11eb-91f5-34f92167dd3c.jpg" width = "300">  
-<https://github.com/cotton11aq/hamap>
+[レポジトリ](https://github.com/cotton11aq/hamap)
 <br />
 <br />
 
