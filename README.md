@@ -44,7 +44,8 @@
 ## 実績
 
 #### 四国ツーリング  
-<img src="https://user-images.githubusercontent.com/70832534/102936049-b8e54000-44ea-11eb-8b70-61504f0a83f0.png" width = "300">  
+<img src="https://user-images.githubusercontent.com/70832534/102936049-b8e54000-44ea-11eb-8b70-61504f0a83f0.png" width = "300"> 
+<br />
 [repository](https://github.com/cotton11aq/shikoku-touring)
 <br />
 <br />
