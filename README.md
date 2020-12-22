@@ -8,13 +8,13 @@
 <strong>四国ツーリング</strong>  
 <https://github.com/cotton11aq/shikoku-touring>
 
-はまっぷグルメ  
+<strong>はまっぷグルメ</strong>  
 <https://github.com/cotton11aq/hamap>
 
-Yu-工房  
+<strong>Yu-工房</strong>  
 <https://github.com/cotton11aq/yu-kobo>
 
-トラリピ資金管理表  
+<strong>トラリピ資金管理表</strong>  
 <https://github.com/cotton11aq/toraripi>
 
 
@@ -26,10 +26,10 @@ Yu-工房
 
 私の人柄や考えは、各種情報発信メディアからぜひご覧ください。  
 
-Twitter  
+<strong>Twitter</strong>  
 フォロワー約1,000名。日々の気づきや考えを毎日発信。  
 <https://twitter.com/cotton11aq>
 
-note  
+<strong>note</strong>  
 仕事に対する考え・経験・知見を発信。  
 <https://note.com/cotton11aq>
