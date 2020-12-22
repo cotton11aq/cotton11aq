@@ -15,7 +15,7 @@
 <https://github.com/cotton11aq/yu-kobo>
 
 <strong>トラリピ資金管理表</strong>  
-<https://github.com/cotton11aq/toraripi>
+<https://github.com/cotton11aq/toraripi>    
 
 
 ### プロフィール
