@@ -12,6 +12,7 @@ Yu-工房
 トラリピ資金管理表  
 <https://github.com/cotton11aq/toraripi>
 
+
 ### プロフィール
 
 生年月日：1994年9月17日（26歳）  
