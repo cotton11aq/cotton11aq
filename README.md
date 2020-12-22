@@ -10,7 +10,7 @@ Yu-工房
 <https://github.com/cotton11aq/yu-kobo>
 
 トラリピ資金管理表  
-<https://github.com/cotton11aq/toraripi-crud>
+<https://github.com/cotton11aq/toraripi>
 
 ### プロフィール
 
