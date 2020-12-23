@@ -83,5 +83,5 @@
 <https://twitter.com/cotton11aq>
 
 <strong>note</strong>  
-仕事に対する考え・経験・知見を発信。  
+仕事に対する考えや勉強内容を発信。  
 <https://note.com/cotton11aq>
