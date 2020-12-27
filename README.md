@@ -65,7 +65,7 @@
 ## 製作物
 
 <strong>四国ツーリング</strong>  
-<img src="https://user-images.githubusercontent.com/70832534/102936049-b8e54000-44ea-11eb-8b70-61504f0a83f0.png" width = "300">  
+![hamap – 1](https://user-images.githubusercontent.com/70832534/103168913-b718d500-487a-11eb-8187-d9b31709007a.jpg)  
 [repository](https://github.com/cotton11aq/shikoku-touring)
 <br />
 <br />
