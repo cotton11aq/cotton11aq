@@ -65,7 +65,7 @@
 # 製作物
 
 ### 四国ツーリング 
-[repository](https://github.com/cotton11aq/shikoku-touring)  
+<https://github.com/cotton11aq/shikoku-touring>  
 ![hamap – 1](https://user-images.githubusercontent.com/70832534/103168913-b718d500-487a-11eb-8187-d9b31709007a.jpg)  
 <br />
 <br />
