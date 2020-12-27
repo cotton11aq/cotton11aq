@@ -11,7 +11,7 @@
 <https://twitter.com/cotton11aq>
 
 <strong>note</strong>  
-仕事に対する考えや勉強内容を発信。  
+約5,000PV。仕事に対する考えや勉強内容を発信。  
 <https://note.com/cotton11aq>
 <br />
 <br />
