@@ -1,4 +1,4 @@
-## プロフィール
+# プロフィール
 
 生年月日：1994年9月17日（26歳）  
 出身地：愛媛県西予市  
@@ -62,9 +62,9 @@
 <br />
 -->
 
-## 製作物
+# 製作物
 
-<strong>四国ツーリング</strong>  
+## 四国ツーリング 
 [repository](https://github.com/cotton11aq/shikoku-touring)  
 ![hamap – 1](https://user-images.githubusercontent.com/70832534/103168913-b718d500-487a-11eb-8187-d9b31709007a.jpg)  
 <br />
