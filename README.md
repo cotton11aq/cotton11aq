@@ -44,7 +44,7 @@
 <br />
 
 ## 01 はまっぷグルメ 
-<strong>詳細はこちら</strong>  
+<strong>詳細はこちら↓</strong>  
 <https://github.com/cotton11aq/hamap> 
 <br />
 ![#hamap – 1](https://user-images.githubusercontent.com/70832534/103212827-48f21200-494f-11eb-9b2d-70b756cd5331.jpg)
@@ -53,7 +53,7 @@
 <br />
 
 ## 02 四国ツーリング 
-<strong>詳細はこちら</strong>  
+<strong>詳細はこちら↓</strong>  
 <https://github.com/cotton11aq/shikoku-touring>
 <br />
 <br />
@@ -63,7 +63,7 @@
 <br /> 
 
 ## 03 Yu-工房 
-<strong>詳細はこちら</strong>  
+<strong>詳細はこちら↓</strong>  
 <https://github.com/cotton11aq/yu-kobo>
 <br />
 <br />
@@ -73,7 +73,7 @@
 <br />
 
 ## 04 トラリピ資金管理表
-<strong>詳細はこちら</strong>  
+<strong>詳細はこちら↓</strong>  
 <https://github.com/cotton11aq/toraripi>
 <br />
 <br />
