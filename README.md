@@ -9,9 +9,11 @@
 <strong>Twitter</strong>  
 フォロワー約1,000名。日々の気づきや考えを毎日発信。  
 <https://twitter.com/cotton11aq>
+<br />
+<br />
 
 <strong>Qiita</strong>  
-プログラミングの勉強内容を発信  
+プログラミングの勉強内容を発信。  
 <https://note.com/cotton11aq>
 <br />
 <br />
