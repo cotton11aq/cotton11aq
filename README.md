@@ -88,4 +88,4 @@
 <br />
 
 ## 資料一式
-<https://github.com/cotton11aq/toraripi>
+<https://drive.google.com/file/d/14TkxfuFsg5-nJGDk1iBsp-cBkVwT3cKz/view?usp=sharing>
