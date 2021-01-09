@@ -62,7 +62,7 @@
 <https://github.com/cotton11aq/shikoku-touring>
 <br />
 <br />
-![Shikoku-touring-1](https://user-images.githubusercontent.com/70832534/103212837-4e4f5c80-494f-11eb-9146-433cba37c00b.jpg)
+![Shikoku-touring-3 – 5](https://user-images.githubusercontent.com/70832534/104080825-c0884100-526d-11eb-8afd-fc689ea18694.jpg)
 <br />
 <br />
 <br /> 
@@ -72,7 +72,7 @@
 <https://github.com/cotton11aq/yu-kobo>
 <br />
 <br />
-![Yu-kobo – 1](https://user-images.githubusercontent.com/70832534/103212851-527b7a00-494f-11eb-9764-909fc11ffa5b.jpg)
+![Yu-kobo – 19](https://user-images.githubusercontent.com/70832534/104080817-bbc38d00-526d-11eb-9e8f-a9876be6a1f9.jpg)
 <br />
 <br />
 <br />
@@ -82,4 +82,5 @@
 <https://github.com/cotton11aq/toraripi>
 <br />
 <br />
-![toraripi](https://user-images.githubusercontent.com/70832534/103212849-51e2e380-494f-11eb-8569-6e65d13f3a77.jpg)
+![toraripi – 4](https://user-images.githubusercontent.com/70832534/104080823-bfefaa80-526d-11eb-990f-f62142b20574.jpg)
+
