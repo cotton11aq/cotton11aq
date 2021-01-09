@@ -48,7 +48,7 @@
 <br />
 <br />
 
-## 01 はまっぷグルメ 
+## 01 グルメ紹介サイトリニューアル 
 <strong>詳細はこちら↓</strong>  
 <https://github.com/cotton11aq/hamap> 
 <br />
@@ -57,7 +57,7 @@
 <br />
 <br />
 
-## 02 四国ツーリング 
+## 02 Webサイト構築による課題解決 
 <strong>詳細はこちら↓</strong>  
 <https://github.com/cotton11aq/shikoku-touring>
 <br />
@@ -67,7 +67,7 @@
 <br />
 <br /> 
 
-## 03 Yu-工房 
+## 03 手作り雑貨ショップLP制作 
 <strong>詳細はこちら↓</strong>  
 <https://github.com/cotton11aq/yu-kobo>
 <br />
@@ -77,7 +77,7 @@
 <br />
 <br />
 
-## 04 トラリピ資金管理表
+## 04 FX資金管理アプリ
 <strong>詳細はこちら↓</strong>  
 <https://github.com/cotton11aq/toraripi>
 <br />
