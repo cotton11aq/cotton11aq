@@ -37,7 +37,7 @@
 
 # 私にできること
 <strong>Webアプリ製作 / Webサイト制作</strong>  
-<strong>HTML / CSS / JavaScript / React / C++</strong>  
+<strong>HTML / CSS / JavaScript / React / jQuery / </strong>  
 <strong>Adobe XD</strong>  
 
 相手の立場になって物事を考えることが得意です。  
